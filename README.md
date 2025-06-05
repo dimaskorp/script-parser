@@ -18,11 +18,9 @@
 ## Используемые сайты конкурентов
 
 - https://el-dent.ru
-- https://stomatorg.ru
 - https://www.nika-dent.ru
 - https://aveldent.ru
-- https://stomdevice.ru
-
+  
 ---
 
 ## Технологии и модули
